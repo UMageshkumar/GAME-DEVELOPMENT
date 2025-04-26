@@ -1,5 +1,8 @@
 ## EX 1: DDA ALGORITHM 
 
+### NAME: U MAGESHKUMAR
+### REG NO: 212224240085
+
 **Aim :**
 
 To  implement the DDA algorithm to draw a line using a c coding
